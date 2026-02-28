@@ -107,6 +107,7 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 4.Modified the security group to allow HTTP (port 80) traffic and accessed the web server using the public IP address.
 
 5.Resized the instance to t2.small, increased the EBS volume size, explored EC2 service quotas, tested stop protection, and finally stopped the instance.
+
 ---
 
 ## Output Screenshots (Attach 3)
