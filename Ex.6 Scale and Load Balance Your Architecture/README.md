@@ -15,14 +15,6 @@ Scale and Load Balance Your Architecture
 * **Date of Submission**: 18.03.2026
 ---
 
-
-## Title
-
-Scale and Load Balance Your Architecture
-
-
----
-
 ## Objective
 
 The objective of this lab is to understand how to design a scalable and highly available architecture on AWS using Auto Scaling and Elastic Load Balancing. This experiment focuses on distributing incoming traffic across multiple EC2 instances, automatically scaling resources based on demand, and validating fault tolerance.
